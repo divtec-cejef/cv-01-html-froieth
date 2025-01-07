@@ -4,7 +4,6 @@
 }
 
 body {
-    font-family: "Anton", sans-serif;
     font-weight: 400;
     font-size: 2rem;
     line-height: 1.4;
@@ -22,6 +21,7 @@ img {
 }
 
 a {
+    font-family: "Anton", sans-serif;
     color: deeppink;
     text-decoration: none;
 }
