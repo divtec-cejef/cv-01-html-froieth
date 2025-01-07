@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: "LXGW WenKai Mono TC", sans-serif;
+    font-family: "Anton", sans-serif;
     font-weight: 400;
     font-size: 2rem;
     line-height: 1.4;
@@ -43,4 +43,6 @@ footer {
   margin: 20px; /* Vous pouvez ajuster la valeur selon vos besoins */
 }
 
-
+h1 {
+  font-family: "Anton SC", sans-serif;
+}
