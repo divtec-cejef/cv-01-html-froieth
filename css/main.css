@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-    color: platinium;
+    color: #E5E4E2;
     text-decoration: line-through;
 }
 
@@ -52,8 +52,4 @@ h1 {
   text-decoration: underline;
   border: 2px yellow;
   border-radius: 5px;
-}
-
-h2 {
-  font-weight: bold;
 }
