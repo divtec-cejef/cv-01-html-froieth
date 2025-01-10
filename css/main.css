@@ -4,6 +4,7 @@
 }
 
 body {
+    max-width: 800px;
     font-weight: 400;
     font-size: 2rem;
     line-height: 1.4;
