@@ -25,12 +25,12 @@ img {
 
 a {
     font-family: "Anton", sans-serif;
-    color: grey;
+    color: #82fcfb;
     text-decoration: none;
 }
 
 a:hover {
-    color: #82fcfb;
+    color: blue;
     text-decoration: line-through;
 }
 
