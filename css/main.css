@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-    color: blue;
+    color: platinium;
     text-decoration: line-through;
 }
 
@@ -49,7 +49,11 @@ footer {
 
 h1 {
   font-family: "Anton SC", sans-serif;
-      text-decoration: underline;
+  text-decoration: underline;
   border: 2px yellow;
   border-radius: 5px;
+}
+
+h2 {
+  color: #7974f5;
 }
