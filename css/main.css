@@ -32,6 +32,7 @@ a {
 a:hover {
     color: #E5E4E2;
     text-decoration: line-through;
+    text-shadow: 2px 2px 5px grey;
 }
 
 header {
