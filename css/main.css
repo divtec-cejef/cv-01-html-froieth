@@ -27,7 +27,8 @@ a {
 }
 
 a:hover {
-    color: darkmagenta;
+    color: violet;
+    text-decoration: underline;
 }
 
 header {
